@@ -40,12 +40,11 @@ Este estudo reforça a importância de antecipar ameaças e responder rapidament
 
 ---
 ## ✨ Referências Bibilográficas
-OLIVEIRA (2025). RIC.CPS.SP.GOV.BR –Acesso em 04/2026
-ESET (2023). “Crimes digitais”  
-https://www.eset.com/br/artigos/crimes-digitais/ - Acesso em 04/2026
-ELEUTÉRIO (2015). Entrevista concedida à PUC-Rio Digital, https://puc
-riodigital.com.puc-rio.br/cgi/cgilua.exe/sys/start.htm?infoid=26036&sid=41&utm – 
-Acesso em 04/2026
+- ANTUNES (2020, p. 54 e 93). *Introdução à Computação Forense e Perícia Digital*.
+- ESET (2023). “Crimes digitais”. Disponível em: https://www.eset.com/br/artigos/crimes-digitais/ — Acesso em: abr. 2026.
+- ELEUTÉRIO (2015). Entrevista concedida à PUC-Rio Digital. Disponível em: https://pucriodigital.com.puc-rio.br/cgi/cgilua.exe/sys/start.htm?infoid=26036&sid=41&utm — Acesso em: abr. 2026.
+- BRASIL. Lei nº 12.737, de 30 de novembro de 2012. Dispõe sobre crimes informáticos.
+- BRASIL. Lei nº 13.709, de 14 de agosto de 2018. *Lei Geral de Proteção de Dados Pessoais (LGPD)*.
 
 ---
 ## 👤 Autor
