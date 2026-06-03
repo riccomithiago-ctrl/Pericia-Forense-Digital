@@ -1,38 +1,53 @@
-# Pericia Forense Digital
-Inovações em T.I. e crimes cibernéticos
+# 📘 Perícia Forense Digital
 
-OBJETIVO DO PROJETO
+### Inovações em T.I. e Crimes Cibernéticos
 
-”Esta pesquisa destaca a forense digital como ferramenta essencial cibernéticos, para combater crimes identificando autores e apoiando
-vítimas.” (OLIVEIRA, 2025, p. 4). O estudo apresenta conceitos, procedimentos e ferramentas usadas nas investigações digitais. A metodologia é
-bibliográfica, baseada em fontes recentes e confiáveis. Além disso, enfatiza a importância de investir na capacitação de profissionais e no
-desenvolvimento de tecnologias, visando antecipar ameaças, responder rapidamente aos incidentes e aumentar a segurança e confiança dos usuários no
-ambiente digital. 
+Este repositório contém meu trabalho acadêmico sobre **Perícia Forense Digital**, explorando como a tecnologia pode ser usada para investigar e combater crimes cibernéticos.
 
-DIAGNÓSTICO
+---
 
-Diferentemente do que muitos acham, os crimes cibernéticos vão muito além dos golpes e envolvem diversas motivações. Por exemplo, dados importantes
-podem ser roubados e informações falsas compartilhadas por meio de malwares. E aambição financeira é um dos principais motivos dos crimes.
-Grande parte das ações ocorre para tentar extorquir as vítimas ou então vender informações relevantes. Além disso, o ego e a ganância são outros
-grandes motivos para essas ações, afinal, muitas vezes os criminosos desejam ganhar notoriedade. ESET (2023).
+## 🎯 Objetivo
+Destacar a forense digital como ferramenta essencial para:
+- Identificar autores de crimes virtuais
+- Apoiar vítimas
+- Fortalecer a segurança no ambiente digital
 
-PROPOSTA DE MELHORIA
+---
 
-O avanço dos crimes cibernéticos exige melhorias constantes na forense digital. Tecnologias como Inteligência Artificial e Machine Learning auxiliam na
-análise de grandes volumes de dados, identificação de fraudes, deepfakes e rastreamento de criptomoedas. A forense em nuvem e a análise de dispositivos móveis e
-IoT ampliam a capacidade de coleta e investigação de evidências digitais. Além disso, métodos de autenticação de mídias geradas por IA fortalecem a
-confiabilidade das provas. Como afirma Eleutério (2015), “a rede mundial de computadores é só um novo meio no qual tais informações podem ser acessadas e
-eventualmente roubadas”, reforçando a necessidade de constante evolução das ferramentas forenses digitais. 
+## 📑 Metodologia
+- Pesquisa bibliográfica baseada em fontes recentes e confiáveis  
+- Análise de conceitos, procedimentos e ferramentas utilizadas em investigações digitais  
+- Ênfase na capacitação de profissionais e desenvolvimento de tecnologias  
 
-COMUNIDADE IMPACTADA
+---
 
-A analise forense digital impacta varias comunidades ao lidar com crimes cibernéticos. Ela beneficia a sociedade, empresas, governo, justiça e profissionais de
-T.I.Ela aplica técnicas e ferramentas para coletar preservar,analisar e apresentar evidências digitais de forma valida em processos judiciais. 
+## 🔍 Diagnóstico
+Os crimes cibernéticos vão além de golpes financeiros, envolvendo:
+- Roubo de dados  
+- Disseminação de informações falsas  
+- Diversas motivações que impactam indivíduos e organizações  
 
-RELATÓRIOS FINAL 
- 
-A forense digital é essencial no combate aos crimes cibernéticos, atuando na investigação, prevenção e identificação de criminosos virtuais. O crescimento das
-ameaças digitais e o aumento do erro humano evidenciam a necessidade de estratégias eficazes de segurança da informação. O estudo destaca a
-importância da conscientização dos usuários, da capacitação de profissionais especializados e do desenvolvimento de tecnologias capazes de detectar e
-mitigar ataques rapidamente. Além de apoiar vítimas e auxiliar na responsabilização jurídica dos infratores, aperícia digital fortalece a proteção de dados e contribui
-para a construção de um ambiente virtual mais seguro, confiável e resiliente para a sociedade. 
+---
+
+## 📄 Trabalho completo
+👉 (https://github.com/riccomithiago-ctrl/Pericia-Forense-Digital/blob/main/Trabalho%20Pericia%20Digital%202026%20(1).pdf)
+
+---
+
+## ✨ Conclusão
+Investir em perícia digital é investir em **confiança e segurança** no ambiente online.  
+Este estudo reforça a importância de antecipar ameaças e responder rapidamente a incidentes.
+
+---
+## ✨ Referências Bibilográficas
+OLIVEIRA (2025). RIC.CPS.SP.GOV.BR –Acesso em 04/2026
+ESET (2023). “Crimes digitais”  
+https://www.eset.com/br/artigos/crimes-digitais/ - Acesso em 04/2026
+ELEUTÉRIO (2015). Entrevista concedida à PUC-Rio Digital, https://puc
+riodigital.com.puc-rio.br/cgi/cgilua.exe/sys/start.htm?infoid=26036&sid=41&utm – 
+Acesso em 04/2026
+
+---
+## 👤 Autor
+**Thiago Riccomi da Costa**  
+Estudante de Tecnologia em Segurança da Informação  
